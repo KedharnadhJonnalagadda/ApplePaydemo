@@ -1,5 +1,5 @@
 {
-  "name": "ppcp-starter-node",
+  "name": "ApplePaydemo",
   "version": "1.0.0",
   "description": "Starter code for a Node.js app for PayPal Complete Payments - Alternative Payment Methods: Apple Pay",
   "main": "index.js",
